@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: KALDI
-image: /img/home-jumbotron.jpg
+image: /img/706494.jpg
 heading: "   "
 subheading: "  Memberi Informasi Terbaru Terkait Teknologi"
 mainpitch:
