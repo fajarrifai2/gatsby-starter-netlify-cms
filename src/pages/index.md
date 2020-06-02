@@ -3,7 +3,7 @@ templateKey: index-page
 title: KALDI
 image: /img/home-jumbotron.jpg
 heading: "   "
-subheading: "  "
+subheading: "  Memberi Informasi Terbaru Terkait Teknologi"
 mainpitch:
   title: Apa itu KALDI ?
   description: KALDI adalah layanan hosting murah unlimited dengan cPanel dan
