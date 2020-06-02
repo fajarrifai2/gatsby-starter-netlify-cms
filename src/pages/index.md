@@ -22,12 +22,11 @@ intro:
       text: >
         Temukan pengalaman hosting cepat dan mudah hanya di KALDI. Nikmati web
         hosting dengan teknologi terbaik dan support yang anda.
-    - image: /img/coffee-gear.png
+    - image: /img/vps-logo.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Dapatkan kontrol penuh atas server dan hosting yang Anda kelola dengan
+        akses full root di VPS Hosting. Upgrade resource kapan saja sesuai
+        kebutuhan Anda untuk menampung trafik website super tinggi!
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
