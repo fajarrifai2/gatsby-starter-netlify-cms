@@ -11,10 +11,11 @@ mainpitch:
     data center bersertifikasi tier-4 yang canggih dan modern dari DCI
     Indonesia. Layanan hosting yang menjamin kualitas uptime dan akses website
     yang cepat.
-description: CloudCafe adalah tempat bagi pecinta kopi yang ingin belajar
-  tentang asal Jawa mereka dan mendukung para petani yang menanamnya. Kami
-  menganggap produksi kopi, pemanggangan dan pembuatan bir dengan serius dan
-  kami senang menyampaikan pengetahuan itu kepada siapa pun.
+description: KALDI sendiri merupakan layanan penyedia Hosting yang memiliki
+  pengalaman serta dukungan layanan yang baik. Tentu saja hal ini menjadi nilai
+  plus ketika Anda mempertimbangkan untuk membuat web. Apalagi bagi Anda yang
+  awam mengenai hosting dan domain, maka dengan Niagahoster Anda akan dimudahkan
+  dalam memilih hosting juga domain sesuai dengan kebutuhan.
 intro:
   blurbs:
     - image: /img/coffee.png
