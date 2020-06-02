@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Kopi Enak dengan Hati Nurani
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Kopi Enak dengan Hati Nurani
+subheading: Mendukung Kepuasan Pelanggan Dengan Kenikmatan Kopi Terkemuka
 mainpitch:
   title: Why CloudCafe
   description: >
@@ -11,10 +11,10 @@ mainpitch:
     kopi enak tidak hanya enak, tapi juga enak. Kami mendapatkan semua biji kami
     langsung dari petani skala kecil yang berkelanjutan dan memastikan sebagian
     dari keuntungan diinvestasikan kembali di komunitas mereka.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: CloudCafe adalah tempat bagi pecinta kopi yang ingin belajar
+  tentang asal Jawa mereka dan mendukung para petani yang menanamnya. Kami
+  menganggap produksi kopi, pemanggangan dan pembuatan bir dengan serius dan
+  kami senang menyampaikan pengetahuan itu kepada siapa pun.
 intro:
   blurbs:
     - image: /img/coffee.png
