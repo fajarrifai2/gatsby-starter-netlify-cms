@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Kopi Enak dengan Hati Nurani
+title: Cloud Pedia
 image: /img/home-jumbotron.jpg
-heading: Kopi Enak dengan Hati Nurani
-subheading: Mendukung Kepuasan Pelanggan Dengan Kenikmatan Kopi Terkemuka
+heading: Cloud Pedia
+subheading: Memberi Informasi Terbaru Terkait Teknologi
 mainpitch:
   title: Why CloudCafe
   description: >
