@@ -1,12 +1,12 @@
 ---
 templateKey: index-page
-title: Cloud Host
+title: KALDI
 image: /img/home-jumbotron.jpg
-heading: Cloud Host
-subheading: Memberi Informasi Terbaru Terkait Teknologi
+heading: "   "
+subheading: "  "
 mainpitch:
-  title: Apa itu Cloud Host ?
-  description: CloudHost adalah layanan hosting murah unlimited dengan cPanel dan
+  title: Apa itu KALDI ?
+  description: KALDI adalah layanan hosting murah unlimited dengan cPanel dan
     server Indonesia. Layanan hosting Indonesia kelas bisnis yang menggunakan
     data center bersertifikasi tier-4 yang canggih dan modern dari DCI
     Indonesia. Layanan hosting yang menjamin kualitas uptime dan akses website
