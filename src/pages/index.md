@@ -1,16 +1,16 @@
 ---
 templateKey: index-page
-title: Cloud Pedia
+title: Cloud Host
 image: /img/home-jumbotron.jpg
-heading: Cloud Pedia
+heading: Cloud Host
 subheading: Memberi Informasi Terbaru Terkait Teknologi
 mainpitch:
-  title: Why CloudCafe
-  description: >
-    CloudCafe adalah kedai kopi untuk semua kalangan/orang yang percaya bahwa
-    kopi enak tidak hanya enak, tapi juga enak. Kami mendapatkan semua biji kami
-    langsung dari petani skala kecil yang berkelanjutan dan memastikan sebagian
-    dari keuntungan diinvestasikan kembali di komunitas mereka.
+  title: Apa itu Cloud Host ?
+  description: CloudHost adalah layanan hosting murah unlimited dengan cPanel dan
+    server Indonesia. Layanan hosting Indonesia kelas bisnis yang menggunakan
+    data center bersertifikasi tier-4 yang canggih dan modern dari DCI
+    Indonesia. Layanan hosting yang menjamin kualitas uptime dan akses website
+    yang cepat.
 description: CloudCafe adalah tempat bagi pecinta kopi yang ingin belajar
   tentang asal Jawa mereka dan mendukung para petani yang menanamnya. Kami
   menganggap produksi kopi, pemanggangan dan pembuatan bir dengan serius dan
