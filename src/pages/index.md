@@ -3,7 +3,7 @@ templateKey: index-page
 title: KALDI
 image: /img/706494.jpg
 heading: "   "
-subheading: "  Memberi Informasi Terbaru Terkait Teknologi"
+subheading: Layanan Penyedia Hosting Terbaik
 mainpitch:
   title: Apa itu KALDI ?
   description: KALDI adalah layanan hosting murah unlimited dengan cPanel dan
